@@ -17,6 +17,9 @@
     {"name":"spr_player","order":3,"path":"folders/Sprites/spr_player.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"sprc_chao","order":4,"path":"sprites/sprc_chao/sprc_chao.yy",},
+    {"name":"spr_parede","order":5,"path":"sprites/spr_parede/spr_parede.yy",},
+    {"name":"obj_chao","order":1,"path":"objects/obj_chao/obj_chao.yy",},
     {"name":"sprc_parado","order":1,"path":"sprites/sprc_parado/sprc_parado.yy",},
   ],
 }
