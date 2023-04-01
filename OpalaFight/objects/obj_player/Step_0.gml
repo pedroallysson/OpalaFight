@@ -1,26 +1,30 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-var _right, _left;
+if(keyboard_check(vk_right)){
+	x+=1.5;
+	sprite_index = spr_player_walk;
 
-chao = place_meeting(x,y +1, obj_colisao);
+	image_xscale = abs(image_xscale)
+}else if(keyboard_check(vk_left)){
+	x-=1.5;
+	sprite_index = spr_player_walk;
 
-_right = keyboard_check(vk_right);
-_left = keyboard_check(vk_left);
-_jump = keyboard_check(vk_space);
+	image_xscale = abs(image_xscale) * -1;
+}else if(keyboard_check(vk_up)){
+	y-=1.5;
+	sprite_index = spr_player_walk;
 
-velh = (_right - _left) * max_velh;
+	image_xscale = abs(image_xscale);
+}else if(keyboard_check(vk_down)){
+	y+=1.5;
+	sprite_index = spr_player_walk;
 
-if (!chao)
-{
-	velv += grav;
-}
-else
-{
-	if (_jump)
-	{
-		velv = -max_velv;
-		yscale = 1.5;
-		xscale = .5;
-	}
+	image_xscale = abs(image_xscale);
+}else if(keyboard_check(ord("Z"))){
+	sprite_index = spr_soco;
+
+	image_xscale = abs(image_xscale);
+}else{
+	sprite_index = spr_parado;
 }
