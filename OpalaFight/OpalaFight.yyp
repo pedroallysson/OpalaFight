@@ -38,6 +38,7 @@
     {"id":{"name":"spr_background_polo","path":"sprites/spr_background_polo/spr_background_polo.yy",},"order":0,},
     {"id":{"name":"sprc_chao","path":"sprites/sprc_chao/sprc_chao.yy",},"order":0,},
     {"id":{"name":"spr_player_walk","path":"sprites/spr_player_walk/spr_player_walk.yy",},"order":0,},
+    {"id":{"name":"spr_dano","path":"sprites/spr_dano/spr_dano.yy",},"order":0,},
     {"id":{"name":"spr_colisao","path":"sprites/spr_colisao/spr_colisao.yy",},"order":0,},
     {"id":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},"order":0,},
     {"id":{"name":"spr_parado","path":"sprites/spr_parado/spr_parado.yy",},"order":0,},

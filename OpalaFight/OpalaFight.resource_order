@@ -21,6 +21,7 @@
     {"name":"obj_colisao","order":2,"path":"objects/obj_colisao/obj_colisao.yy",},
     {"name":"spr_background_polo","order":4,"path":"sprites/spr_background_polo/spr_background_polo.yy",},
     {"name":"sprc_chao","order":2,"path":"sprites/sprc_chao/sprc_chao.yy",},
+    {"name":"spr_dano","order":3,"path":"sprites/spr_dano/spr_dano.yy",},
     {"name":"spr_colisao","order":3,"path":"sprites/spr_colisao/spr_colisao.yy",},
     {"name":"obj_chao","order":1,"path":"objects/obj_chao/obj_chao.yy",},
     {"name":"spr_parado","order":1,"path":"sprites/spr_parado/spr_parado.yy",},

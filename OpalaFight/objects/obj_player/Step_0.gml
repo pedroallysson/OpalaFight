@@ -1,5 +1,4 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
+// acoes
 
 if(keyboard_check(vk_right)){
 	x+=1.5;
