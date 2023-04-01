@@ -17,8 +17,9 @@
     {"name":"spr_player","order":3,"path":"folders/Sprites/spr_player.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_colisao","order":2,"path":"objects/obj_colisao/obj_colisao.yy",},
     {"name":"sprc_chao","order":4,"path":"sprites/sprc_chao/sprc_chao.yy",},
-    {"name":"spr_parede","order":5,"path":"sprites/spr_parede/spr_parede.yy",},
+    {"name":"spr_colisao","order":5,"path":"sprites/spr_colisao/spr_colisao.yy",},
     {"name":"obj_chao","order":1,"path":"objects/obj_chao/obj_chao.yy",},
     {"name":"sprc_parado","order":1,"path":"sprites/sprc_parado/sprc_parado.yy",},
   ],
