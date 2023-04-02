@@ -26,6 +26,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Anotações","folderPath":"folders/Anotações.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensões","folderPath":"folders/Extensões.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_player_principal","folderPath":"folders/Sprites/spr_player_principal.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_oponentes","folderPath":"folders/Sprites/spr_oponentes.yy","order":0,},
   ],
   "IncludedFiles": [],
   "isEcma": false,
