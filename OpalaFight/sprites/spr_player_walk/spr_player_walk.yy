@@ -53,8 +53,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "spr_player_principal",
-    "path": "folders/Sprites/spr_player_principal.yy",
+    "name": "spr_player",
+    "path": "folders/Sprites/spr_player.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
