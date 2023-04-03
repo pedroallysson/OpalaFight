@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"spr_soco","path":"sprites/spr_soco/spr_soco.yy",},"order":0,},
+    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":0,},
     {"id":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},"order":0,},
     {"id":{"name":"spr_background_polo","path":"sprites/spr_background_polo/spr_background_polo.yy",},"order":0,},
     {"id":{"name":"sprc_chao","path":"sprites/sprc_chao/sprc_chao.yy",},"order":0,},

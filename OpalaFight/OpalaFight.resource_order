@@ -19,6 +19,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_soco","order":2,"path":"sprites/spr_soco/spr_soco.yy",},
+    {"name":"obj_camera","order":5,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_colisao","order":2,"path":"objects/obj_colisao/obj_colisao.yy",},
     {"name":"spr_background_polo","order":4,"path":"sprites/spr_background_polo/spr_background_polo.yy",},
     {"name":"sprc_chao","order":2,"path":"sprites/sprc_chao/sprc_chao.yy",},
