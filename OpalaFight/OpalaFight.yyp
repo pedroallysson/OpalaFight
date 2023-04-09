@@ -26,6 +26,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sons","folderPath":"folders/Sons.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"grupo1","folderPath":"folders/Sprites/grupo1.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"oponente_ads","folderPath":"folders/Sprites/oponente_ads.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_oponente3","folderPath":"folders/Sprites/spr_oponente3.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_player","folderPath":"folders/Sprites/spr_player.yy",},
   ],
@@ -37,8 +38,10 @@
   },
   "resources": [
     {"id":{"name":"spr_soco","path":"sprites/spr_soco/spr_soco.yy",},},
+    {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},},
+    {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},},
     {"id":{"name":"spr_background_polo","path":"sprites/spr_background_polo/spr_background_polo.yy",},},
     {"id":{"name":"sprc_chao","path":"sprites/sprc_chao/sprc_chao.yy",},},
     {"id":{"name":"spr_player_walk","path":"sprites/spr_player_walk/spr_player_walk.yy",},},
