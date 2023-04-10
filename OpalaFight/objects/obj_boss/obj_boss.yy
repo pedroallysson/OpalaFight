@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite10",
-    "path": "sprites/Sprite10/Sprite10.yy",
+    "name": "spr_boss_parado",
+    "path": "sprites/spr_boss_parado/spr_boss_parado.yy",
   },
   "spriteMaskId": null,
   "visible": true,

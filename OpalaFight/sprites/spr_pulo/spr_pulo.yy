@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "spr_pulo",
   "bbox_bottom": 103,
-  "bbox_left": 3,
+  "bbox_left": 0,
   "bbox_right": 42,
   "bbox_top": 0,
   "bboxMode": 0,

@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite10",
+  "name": "spr_boss_caminhando",
   "bbox_bottom": 91,
   "bbox_left": 22,
   "bbox_right": 75,
@@ -27,14 +27,14 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "OpalaFight",
-    "path": "OpalaFight.yyp",
+    "name": "spr_boss",
+    "path": "folders/Sprites/spr_boss.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite10",
+    "name": "spr_boss_caminhando",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -56,9 +56,9 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e9c53ce1-08bd-475b-8954-c64eca587329","path":"sprites/Sprite10/Sprite10.yy",},},},"Disabled":false,"id":"85957ea3-7b30-4a0b-9e63-0cbfb7b7da98","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"532270d9-5788-4fef-a73b-ac1d2c8a5647","path":"sprites/Sprite10/Sprite10.yy",},},},"Disabled":false,"id":"750ee3de-504c-49b4-bbb1-c12e4cefe666","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c32f2940-20f6-45f1-8aa2-920383dbaac4","path":"sprites/Sprite10/Sprite10.yy",},},},"Disabled":false,"id":"fc4f1004-a14a-44b3-be1c-269928244237","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e9c53ce1-08bd-475b-8954-c64eca587329","path":"sprites/spr_boss_caminhando/spr_boss_caminhando.yy",},},},"Disabled":false,"id":"85957ea3-7b30-4a0b-9e63-0cbfb7b7da98","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"532270d9-5788-4fef-a73b-ac1d2c8a5647","path":"sprites/spr_boss_caminhando/spr_boss_caminhando.yy",},},},"Disabled":false,"id":"750ee3de-504c-49b4-bbb1-c12e4cefe666","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c32f2940-20f6-45f1-8aa2-920383dbaac4","path":"sprites/spr_boss_caminhando/spr_boss_caminhando.yy",},},},"Disabled":false,"id":"fc4f1004-a14a-44b3-be1c-269928244237","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
