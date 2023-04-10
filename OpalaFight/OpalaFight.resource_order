@@ -16,11 +16,13 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"spr_player","order":1,"path":"folders/Sprites/spr_player.yy",},
     {"name":"grupo1","order":6,"path":"folders/Sprites/grupo1.yy",},
+    {"name":"oponente_ads","order":10,"path":"folders/Sprites/oponente_ads.yy",},
     {"name":"spr_oponente3","order":9,"path":"folders/Sprites/spr_oponente3.yy",},
     {"name":"spr_boss","order":10,"path":"folders/Sprites/spr_boss.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_soco","order":2,"path":"sprites/spr_soco/spr_soco.yy",},
+    {"name":"Sprite17","order":1,"path":"sprites/Sprite17/Sprite17.yy",},
     {"name":"obj_camera","order":5,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_colisao","order":2,"path":"objects/obj_colisao/obj_colisao.yy",},
     {"name":"spr_background_polo","order":4,"path":"sprites/spr_background_polo/spr_background_polo.yy",},
