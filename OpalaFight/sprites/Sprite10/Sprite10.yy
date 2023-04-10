@@ -27,8 +27,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "spr_boss",
-    "path": "folders/Sprites/spr_boss.yy",
+    "name": "OpalaFight",
+    "path": "OpalaFight.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {
