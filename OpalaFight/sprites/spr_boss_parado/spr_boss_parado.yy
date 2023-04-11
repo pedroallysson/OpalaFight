@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_boss_parado",
-  "bbox_bottom": 90,
-  "bbox_left": 3,
-  "bbox_right": 49,
-  "bbox_top": 2,
+  "bbox_bottom": 91,
+  "bbox_left": 5,
+  "bbox_right": 51,
+  "bbox_top": 3,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"06a5a3f5-08ac-4f24-b710-8de9db5242a4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7e4950b5-182f-46f0-b6b0-d756cb9f48f5",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 92,
+  "height": 94,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"30d973ad-e954-4e4c-b422-d81dfc53b746","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5437b1c2-55a8-4dfa-b21c-e3db9acf1c96","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"06a5a3f5-08ac-4f24-b710-8de9db5242a4","path":"sprites/spr_boss_parado/spr_boss_parado.yy",},},},"Disabled":false,"id":"2a9b86c7-3b84-4111-89b8-ea3e526412b6","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7e4950b5-182f-46f0-b6b0-d756cb9f48f5","path":"sprites/spr_boss_parado/spr_boss_parado.yy",},},},"Disabled":false,"id":"5a7a3067-820f-4af1-b316-60750f554a8e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 54,
+  "width": 60,
 }
