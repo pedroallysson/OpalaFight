@@ -3,4 +3,20 @@
 gravidade = 0.5;
 mov_vertical = 0;
 temp_y = 0;
-pulo = false;
+pulou = false;
+
+velocidade = 0.75;
+xspeed = 0;
+yspeed = 0;
+
+
+enum player {
+	parado,
+	andando,
+	pulando,
+	atacando,
+	dano,
+	morrendo
+}
+
+estado = player.parado;

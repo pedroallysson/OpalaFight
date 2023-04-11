@@ -28,7 +28,7 @@
   "origin": 0,
   "parent": {
     "name": "spr_boss",
-    "path": "folders/Sprites/spr_boss.yy",
+    "path": "folders/Sprites/inimigos/spr_boss.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
