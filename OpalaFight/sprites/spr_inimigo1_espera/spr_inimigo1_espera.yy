@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_inimigo1_parado",
-  "bbox_bottom": 78,
-  "bbox_left": 7,
-  "bbox_right": 52,
-  "bbox_top": 1,
+  "name": "spr_inimigo1_espera",
+  "bbox_bottom": 89,
+  "bbox_left": 25,
+  "bbox_right": 56,
+  "bbox_top": 4,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bb0790a2-4d0e-45b3-b1d2-4a828cee8d3f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6d19bd30-11db-4057-9fdc-2be22213cda8",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 80,
+  "height": 94,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d86b2727-24ea-4d87-a6c7-e909356a457c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e7e6e3c5-b99a-4393-9d6f-bd15daac4b7f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_inimigo1_parado",
+    "name": "spr_inimigo1_espera",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bb0790a2-4d0e-45b3-b1d2-4a828cee8d3f","path":"sprites/spr_inimigo1_parado/spr_inimigo1_parado.yy",},},},"Disabled":false,"id":"7337ee14-f46b-4ffa-aeb1-1a4aba7c90f2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6d19bd30-11db-4057-9fdc-2be22213cda8","path":"sprites/spr_inimigo1_espera/spr_inimigo1_espera.yy",},},},"Disabled":false,"id":"2397aa43-091d-4919-af2e-5f50b5513253","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 78,
+  "width": 76,
 }

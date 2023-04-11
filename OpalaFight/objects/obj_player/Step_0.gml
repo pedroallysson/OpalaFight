@@ -13,6 +13,24 @@ down_released = keyboard_check_released(vk_down);
 #endregion
 
 
+#region Profundidade no cenário
+	
+	var inimigo = instance_place(x, y, obj_inimigo_base);
+	if (inimigo != noone)
+	{
+		if (y < inimigo.y)
+		{
+			depth = 2;
+		}
+		else
+		{
+			depth = 0;
+		}
+	}
+
+
+#endregion
+
 switch (estado)
 {
 	case player.parado:
@@ -114,6 +132,13 @@ switch (estado)
 	
 	case player.atacando:
 	
+		var inst = instance_place(x, y, obj_inimigo_base);
+		
+		if (inst != noone)
+		{
+			inst.estado = inimigo.dano;
+		}
+		
 		sprite_index = spr_soco;
 		image_speed = 1;
 		

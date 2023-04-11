@@ -1,6 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-gravidade = 0.5;
+gravidade = 0.35;
 mov_vertical = 0;
 temp_y = 0;
 pulou = false;
@@ -8,6 +8,11 @@ pulou = false;
 velocidade = 0.75;
 xspeed = 0;
 yspeed = 0;
+depth = 0;
+
+sangueplayer = 5;
+sangueplayermax = 5;
+
 
 
 enum player {
