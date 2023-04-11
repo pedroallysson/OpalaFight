@@ -62,6 +62,7 @@
     {"id":{"name":"obj_light","path":"objects/obj_light/obj_light.yy",},"order":0,},
     {"id":{"name":"spr_pulo","path":"sprites/spr_pulo/spr_pulo.yy",},"order":0,},
     {"id":{"name":"spr_colisao","path":"sprites/spr_colisao/spr_colisao.yy",},"order":0,},
+    {"id":{"name":"obj_transicao","path":"objects/obj_transicao/obj_transicao.yy",},"order":0,},
     {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},"order":0,},
     {"id":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},"order":0,},
     {"id":{"name":"spr_inimigo2_andando","path":"sprites/spr_inimigo2_andando/spr_inimigo2_andando.yy",},"order":0,},

@@ -40,6 +40,7 @@
     {"name":"obj_light","order":4,"path":"objects/obj_light/obj_light.yy",},
     {"name":"spr_pulo","order":5,"path":"sprites/spr_pulo/spr_pulo.yy",},
     {"name":"spr_colisao","order":3,"path":"sprites/spr_colisao/spr_colisao.yy",},
+    {"name":"obj_transicao","order":10,"path":"objects/obj_transicao/obj_transicao.yy",},
     {"name":"Sprite19","order":2,"path":"sprites/Sprite19/Sprite19.yy",},
     {"name":"obj_chao","order":1,"path":"objects/obj_chao/obj_chao.yy",},
     {"name":"spr_inimigo1_morte","order":4,"path":"sprites/spr_inimigo1_morte/spr_inimigo1_morte.yy",},
