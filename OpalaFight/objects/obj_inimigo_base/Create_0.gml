@@ -2,8 +2,8 @@
 // Você pode escrever seu código neste editor
 
 invencivel = false;
-sangue = 10;
-sanguemaximo = 10;
+sangue = 5;
+sanguemaximo = 5;
 mov_horizontal = 0;
 mov_vertical = 0;
 gravidade = 0.35;

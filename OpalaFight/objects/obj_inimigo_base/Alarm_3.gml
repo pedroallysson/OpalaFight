@@ -2,4 +2,8 @@
 // Você pode escrever seu código neste editor
 //SEGUIR O PLAYER
 
-estado = inimigo.seguindo;
+if (sangue > 0)
+{
+	estado = inimigo.seguindo;	
+}
+

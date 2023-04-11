@@ -150,7 +150,10 @@ switch (estado)
 	
 	#region atacando
 	case player.atacando:
-	
+		
+		yspeed = 0;
+		xspeed = 0;
+		
 		var inst = instance_place(x, y, obj_inimigo_base);
 		
 		if (inst != noone)
@@ -158,10 +161,14 @@ switch (estado)
 			inst.estado = inimigo.dano;
 		}
 		
-		sprite_index = spr_soco;
-		image_speed = 1;
+		if (sprite_index != spr_soco)
+		{
+			sprite_index = spr_soco;
+			image_speed = 1;	
+			image_index = 0;
+		}
 		
-		if (image_index == image_number)
+		if (image_index == image_number and !punch)
 		{
 			estado = player.parado;	
 		}
