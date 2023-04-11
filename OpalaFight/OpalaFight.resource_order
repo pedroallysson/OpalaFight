@@ -17,6 +17,7 @@
     {"name":"grupo1","order":4,"path":"folders/Sprites/grupo1.yy",},
     {"name":"spr_oponente3","order":6,"path":"folders/Sprites/spr_oponente3.yy",},
     {"name":"spr_boss","order":7,"path":"folders/Sprites/spr_boss.yy",},
+    {"name":"teste_git","order":11,"path":"folders/Sprites/teste_git.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Sprite17","order":8,"path":"sprites/Sprite17/Sprite17.yy",},
