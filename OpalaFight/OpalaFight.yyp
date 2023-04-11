@@ -62,6 +62,7 @@
     {"id":{"name":"spr_parado","path":"sprites/spr_parado/spr_parado.yy",},"order":0,},
     {"id":{"name":"obj_oponente1","path":"objects/obj_oponente1/obj_oponente1.yy",},"order":0,},
     {"id":{"name":"spr_background_cenario","path":"sprites/spr_background_cenario/spr_background_cenario.yy",},"order":0,},
+    {"id":{"name":"spr_morte","path":"sprites/spr_morte/spr_morte.yy",},"order":0,},
     {"id":{"name":"obj_inimigo_base","path":"objects/obj_inimigo_base/obj_inimigo_base.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_inimigo1_parado","path":"sprites/spr_inimigo1_parado/spr_inimigo1_parado.yy",},"order":0,},

@@ -15,7 +15,8 @@ down_released = keyboard_check_released(vk_down);
 
 #region Profundidade no cenário
 	
-	var inimigo = instance_place(x, y, obj_inimigo_base);
+	/*var inimigo = instance_place(x, y, obj_inimigo_base);
+	
 	if (inimigo != noone)
 	{
 		if (y < inimigo.y)
@@ -26,13 +27,23 @@ down_released = keyboard_check_released(vk_down);
 		{
 			depth = 0;
 		}
-	}
+	}*/
 
+
+#endregion
+
+#region Verificando o Sangue
+
+	if (sangueplayer <=0)
+	{
+		estado = player.morrendo;
+	}
 
 #endregion
 
 switch (estado)
 {
+	#region parado
 	case player.parado:
 		xspeed = 0;
 		yspeed = 0;
@@ -56,6 +67,9 @@ switch (estado)
 		
 	break;
 	
+	#endregion
+	
+	#region andando
 	case player.andando:
 	
 		sprite_index = spr_player_walk;
@@ -98,6 +112,9 @@ switch (estado)
 		}
 	break;
 	
+	#endregion
+	
+	#region pulando
 	case player.pulando:
 		
 		if (mov_vertical > 0)
@@ -129,7 +146,9 @@ switch (estado)
 		y += mov_vertical;
 	
 	break;
+	#endregion
 	
+	#region atacando
 	case player.atacando:
 	
 		var inst = instance_place(x, y, obj_inimigo_base);
@@ -148,12 +167,42 @@ switch (estado)
 		}
 		
 	break;
+	#endregion
 	
+	#region dano
 	case player.dano:
-	break;
 	
+		speed = 0;
+		sprite_index = spr_dano;
+		
+		if (!alarm[0])
+		{
+			sangueplayer--;
+			alarm[0] = room_speed/3;
+		}
+	
+	break;
+	#endregion
+	
+	#region morrendo
 	case player.morrendo:
+	
+		sprite_index = spr_morte;
+		
+		if (image_index == image_number)
+		{
+			speed = 0;
+			image_speed = 0;
+			
+			if (!alarm[1])
+			{
+				alarm[1] = room_speed/2;
+			}
+		}
+	
+		
 	break;	
+	#endregion
 }
 
 if (estado != player.pulando)
@@ -161,8 +210,12 @@ if (estado != player.pulando)
 	y = clamp(y, 118, 160);
 }
 
-x += xspeed;
-y += yspeed;
+if (estado != player.morrendo)
+{
+	x += xspeed;
+	y += yspeed;	
+}
+
 
 /*
 // acoes
@@ -220,4 +273,4 @@ if (mov_vertical >0)
 
 }else{
 	sprite_index = spr_parado;
-}
+}*/

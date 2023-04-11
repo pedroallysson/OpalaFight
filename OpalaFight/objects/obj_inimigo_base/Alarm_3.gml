@@ -1,5 +1,5 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
+//SEGUIR O PLAYER
 
-//TORNANDO ELE GOLPEAVEL
-invencivel = false;
+estado = inimigo.seguindo;

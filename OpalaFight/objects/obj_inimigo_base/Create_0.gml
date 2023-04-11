@@ -9,6 +9,12 @@ mov_vertical = 0;
 gravidade = 0.35;
 temp_y = 0;
 pulou = false;
+
+seguiu = false;
+visao = 50;
+distanciagolpe = 5;
+
+
 depth = 1;
 
 enum inimigo

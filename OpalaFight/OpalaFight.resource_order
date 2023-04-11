@@ -41,6 +41,7 @@
     {"name":"spr_parado","order":1,"path":"sprites/spr_parado/spr_parado.yy",},
     {"name":"obj_oponente1","order":3,"path":"objects/obj_oponente1/obj_oponente1.yy",},
     {"name":"spr_background_cenario","order":1,"path":"sprites/spr_background_cenario/spr_background_cenario.yy",},
+    {"name":"spr_morte","order":6,"path":"sprites/spr_morte/spr_morte.yy",},
     {"name":"obj_inimigo_base","order":9,"path":"objects/obj_inimigo_base/obj_inimigo_base.yy",},
     {"name":"spr_inimigo1_parado","order":3,"path":"sprites/spr_inimigo1_parado/spr_inimigo1_parado.yy",},
     {"name":"obj_boss","order":8,"path":"objects/obj_boss/obj_boss.yy",},
