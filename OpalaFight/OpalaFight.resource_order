@@ -14,6 +14,7 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sons","order":3,"path":"folders/Sons.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"img_fundo","order":12,"path":"folders/Sprites/img_fundo.yy",},
     {"name":"inimigos","order":6,"path":"folders/Sprites/inimigos.yy",},
     {"name":"inimigo1","order":2,"path":"folders/Sprites/inimigos/inimigo1.yy",},
     {"name":"inimigo2","order":3,"path":"folders/Sprites/inimigos/inimigo2.yy",},
@@ -22,7 +23,6 @@
     {"name":"spr_boss","order":1,"path":"folders/Sprites/inimigos/spr_boss.yy",},
     {"name":"spr_cenario2","order":11,"path":"folders/Sprites/spr_cenario2.yy",},
     {"name":"spr_player","order":1,"path":"folders/Sprites/spr_player.yy",},
-    {"name":"img_fundo","order":12,"path":"folders/Sprites/img_fundo.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_soco","order":2,"path":"sprites/spr_soco/spr_soco.yy",},
