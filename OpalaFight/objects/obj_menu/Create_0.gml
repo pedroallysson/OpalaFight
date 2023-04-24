@@ -3,3 +3,4 @@
 opcoes = ["Novo Jogo","Continuar"," Menu ","Sair"];
 index = 0;
 op_max = array_length(opcoes);
+audio_group_load(audiogroup_default);
