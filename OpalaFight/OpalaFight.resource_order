@@ -47,6 +47,7 @@
     {"name":"obj_chao","order":1,"path":"objects/obj_chao/obj_chao.yy",},
     {"name":"spr_inimigo1_morte","order":4,"path":"sprites/spr_inimigo1_morte/spr_inimigo1_morte.yy",},
     {"name":"spr_inimigo1_dano","order":2,"path":"sprites/spr_inimigo1_dano/spr_inimigo1_dano.yy",},
+    {"name":"spr_inimigo3_parado","order":3,"path":"sprites/spr_inimigo3_parado/spr_inimigo3_parado.yy",},
     {"name":"spr_light","order":7,"path":"sprites/spr_light/spr_light.yy",},
     {"name":"spr_parado","order":1,"path":"sprites/spr_parado/spr_parado.yy",},
     {"name":"obj_oponente1","order":3,"path":"objects/obj_oponente1/obj_oponente1.yy",},
