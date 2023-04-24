@@ -60,6 +60,7 @@
     {"name":"spr_inimigo1_soco","order":1,"path":"sprites/spr_inimigo1_soco/spr_inimigo1_soco.yy",},
     {"name":"obj_menu","order":11,"path":"objects/obj_menu/obj_menu.yy",},
     {"name":"spr_inimigo2_morte","order":3,"path":"sprites/spr_inimigo2_morte/spr_inimigo2_morte.yy",},
+    {"name":"snd_menumusic","order":2,"path":"sounds/snd_menumusic/snd_menumusic.yy",},
     {"name":"obj_oponente3","order":6,"path":"objects/obj_oponente3/obj_oponente3.yy",},
     {"name":"spr_inimigo1_espera","order":5,"path":"sprites/spr_inimigo1_espera/spr_inimigo1_espera.yy",},
   ],
