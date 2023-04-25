@@ -17,6 +17,13 @@ distanciagolpe = 5;
 
 depth = 1;
 
+nomeObjeto = object_get_name(object_index);
+
+sprite_andando = setSpriteAndando(nomeObjeto);
+sprite_atacando = setSpriteAtacando(nomeObjeto);
+sprite_dano = setSpriteDano(nomeObjeto);
+sprite_morte = setSpriteMorte(nomeObjeto);
+
 enum inimigo
 {
 	parado,

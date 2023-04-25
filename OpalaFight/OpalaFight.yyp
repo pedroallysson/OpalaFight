@@ -76,6 +76,7 @@
     {"id":{"name":"spr_inimigo1_morte","path":"sprites/spr_inimigo1_morte/spr_inimigo1_morte.yy",},},
     {"id":{"name":"spr_inimigo1_dano","path":"sprites/spr_inimigo1_dano/spr_inimigo1_dano.yy",},},
     {"id":{"name":"spr_inimigo3_parado","path":"sprites/spr_inimigo3_parado/spr_inimigo3_parado.yy",},},
+    {"id":{"name":"scr_setSprites","path":"scripts/scr_setSprites/scr_setSprites.yy",},},
     {"id":{"name":"spr_light","path":"sprites/spr_light/spr_light.yy",},},
     {"id":{"name":"spr_parado","path":"sprites/spr_parado/spr_parado.yy",},},
     {"id":{"name":"obj_oponente1","path":"objects/obj_oponente1/obj_oponente1.yy",},},
