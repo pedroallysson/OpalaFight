@@ -41,6 +41,21 @@ down_released = keyboard_check_released(vk_down);
 
 #endregion
 
+#region Verificando areas de batalha
+	var inst_area = instance_place(x,y, obj_battle_area);
+	
+	if (inst_area != noone)
+	{
+		inst_area.player_entrou = true;
+		
+		if (x >= (inst_area.x + inst_area.sprite_width/2) and inst_area.inimigos)
+		{
+			x = inst_area.x + inst_area.sprite_width/2;
+		}
+	}
+
+#endregion
+
 switch (estado)
 {
 	#region parado
