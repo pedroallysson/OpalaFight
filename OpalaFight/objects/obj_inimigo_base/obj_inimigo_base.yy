@@ -33,10 +33,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_inimigo1_espera",
-    "path": "sprites/spr_inimigo1_espera/spr_inimigo1_espera.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
