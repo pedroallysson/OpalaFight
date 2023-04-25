@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_inimigo2_parado",
-    "path": "sprites/spr_inimigo2_parado/spr_inimigo2_parado.yy",
+    "name": "spr_inimigo1_espera",
+    "path": "sprites/spr_inimigo1_espera/spr_inimigo1_espera.yy",
   },
   "spriteMaskId": null,
   "visible": true,

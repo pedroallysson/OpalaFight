@@ -21,7 +21,7 @@ switch (estado)
 		if (!invencivel)
 		{
 			speed = 0;
-			sprite_index = spr_inimigo1_andando;
+			sprite_index = sprite_andando;
 			image_speed = 0;
 			
 			if (!alarm[3])
@@ -40,7 +40,7 @@ switch (estado)
 	#region seguindo
 	case inimigo.seguindo:
 	
-		sprite_index = spr_inimigo1_andando;
+		sprite_index = sprite_andando;
 		image_speed = 1;
 		
 		var playerinst = instance_find(obj_player, 0);
@@ -89,7 +89,7 @@ switch (estado)
 	case inimigo.atacando:
 	
 		speed = 0;
-		sprite_index = spr_inimigo1_soco;
+		sprite_index = sprite_atacando;
 		
 		if (image_index == 1 and instance_place(x, y, obj_player))
 		{
@@ -119,7 +119,7 @@ switch (estado)
 					temp_y = y;
 					mov_vertical = -7.5
 					mov_horizontal = -sign(image_xscale) *2;
-					sprite_index = spr_inimigo1_morte;
+					sprite_index = sprite_morte;
 					image_speed = 0;
 					image_index = 0;
 					pulou = true;
@@ -142,7 +142,7 @@ switch (estado)
 			}
 			else
 			{//Dano do inimigo
-				sprite_index = spr_inimigo1_dano;
+				sprite_index = sprite_dano;
 				image_speed = 0;
 				image_index = choose(0, 1);
 				invencivel = true;
