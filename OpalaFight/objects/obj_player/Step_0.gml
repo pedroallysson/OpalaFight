@@ -5,7 +5,7 @@ left = keyboard_check(vk_left);
 up = keyboard_check(vk_up);
 down = keyboard_check(vk_down);
 space = keyboard_check_pressed(vk_space);
-punch = keyboard_check(ord("Z"));
+punch = keyboard_check_pressed(ord("Z"));
 left_released = keyboard_check_released(vk_left);
 right_released = keyboard_check_released(vk_right); 
 up_released = keyboard_check_released(vk_up);
@@ -64,6 +64,7 @@ switch (estado)
 		yspeed = 0;
 		
 		sprite_index = spr_parado;
+		mask_index = spr_parado;
 		
 		if (left or right or up or down)
 		{
@@ -165,6 +166,8 @@ switch (estado)
 	
 	#region atacando
 	case player.atacando:
+	
+		mask_index = spr_mask_soco;
 		
 		yspeed = 0;
 		xspeed = 0;
@@ -183,7 +186,7 @@ switch (estado)
 			image_index = 0;
 		}
 		
-		if (image_index == image_number and !punch)
+		if (image_index == 1 and !punch)
 		{
 			estado = player.parado;	
 		}
@@ -211,7 +214,7 @@ switch (estado)
 	
 		sprite_index = spr_morte;
 		
-		if (image_index == image_number)
+		if (image_index == 2)
 		{
 			speed = 0;
 			image_speed = 0;
@@ -232,7 +235,7 @@ if (estado != player.pulando)
 	y = clamp(y, 118, 160);
 }
 
-if (estado != player.morrendo)
+if (estado != player.morrendo and estado != player.pulando)
 {
 	x += xspeed;
 	y += yspeed;	
