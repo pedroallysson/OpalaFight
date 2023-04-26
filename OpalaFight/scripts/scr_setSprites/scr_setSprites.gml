@@ -101,7 +101,7 @@ function setSpriteMorte(_obj)
 		break;
 		
 		case "obj_boss":
-			sprite = spr_boss_caminhando;
+			sprite = spr_boss_morte;
 		break;
 	}
 	

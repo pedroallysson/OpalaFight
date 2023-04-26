@@ -62,6 +62,7 @@
     {"id":{"name":"spr_inimigo3_dano","path":"sprites/spr_inimigo3_dano/spr_inimigo3_dano.yy",},},
     {"id":{"name":"spr_background_polo","path":"sprites/spr_background_polo/spr_background_polo.yy",},},
     {"id":{"name":"snd_bipmenu","path":"sounds/snd_bipmenu/snd_bipmenu.yy",},},
+    {"id":{"name":"spr_boss_morte","path":"sprites/spr_boss_morte/spr_boss_morte.yy",},},
     {"id":{"name":"spr_inimigo2_soco","path":"sprites/spr_inimigo2_soco/spr_inimigo2_soco.yy",},},
     {"id":{"name":"midoground","path":"sprites/midoground/midoground.yy",},},
     {"id":{"name":"spr_inimigo4_soco","path":"sprites/spr_inimigo4_soco/spr_inimigo4_soco.yy",},},
