@@ -26,6 +26,7 @@
     {"name":"masks","order":8,"path":"folders/Sprites/spr_player/masks.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_boss_dano","order":2,"path":"sprites/spr_boss_dano/spr_boss_dano.yy",},
     {"name":"spr_soco","order":2,"path":"sprites/spr_soco/spr_soco.yy",},
     {"name":"Ambiente2","order":1,"path":"rooms/Ambiente2/Ambiente2.yy",},
     {"name":"spr_inimigo2_dano","order":2,"path":"sprites/spr_inimigo2_dano/spr_inimigo2_dano.yy",},

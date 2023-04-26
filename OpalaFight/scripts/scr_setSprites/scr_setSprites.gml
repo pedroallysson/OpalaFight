@@ -73,7 +73,7 @@ function setSpriteDano(_obj)
 		break;
 		
 		case "obj_boss":
-			sprite = spr_boss_caminhando;
+			sprite = spr_boss_dano;
 		break;
 	}
 	
