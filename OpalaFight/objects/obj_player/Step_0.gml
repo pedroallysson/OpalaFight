@@ -79,6 +79,7 @@ switch (estado)
 		else if(punch)
 		{
 			estado = player.atacando;
+			
 		}
 		
 	break;
