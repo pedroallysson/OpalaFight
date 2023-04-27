@@ -5,7 +5,7 @@
   "bbox_bottom": 76,
   "bbox_left": 0,
   "bbox_right": 85,
-  "bbox_top": 0,
+  "bbox_top": 19,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,7 +13,6 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8a0f3def-a88c-4ab0-ade8-9d636faea049",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5de49071-5451-4101-b3a7-8442b74a4cc8",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b84a65b3-520d-4ba1-84be-4a6f49449120",},
   ],
@@ -45,7 +44,7 @@
     "events": {"resourceType":"KeyframeStore<MessageEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "eventStubScript": null,
     "eventToFunction": {},
-    "length": 3.0,
+    "length": 2.0,
     "lockOrigin": false,
     "moments": {"resourceType":"KeyframeStore<MomentsEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "playback": 1,
@@ -56,9 +55,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8a0f3def-a88c-4ab0-ade8-9d636faea049","path":"sprites/spr_boss_morte/spr_boss_morte.yy",},},},"Disabled":false,"id":"56d0713f-f38f-4b54-98b7-23f0077f8242","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5de49071-5451-4101-b3a7-8442b74a4cc8","path":"sprites/spr_boss_morte/spr_boss_morte.yy",},},},"Disabled":false,"id":"7d9d93bd-24b8-45e4-b166-8619d68e2f45","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b84a65b3-520d-4ba1-84be-4a6f49449120","path":"sprites/spr_boss_morte/spr_boss_morte.yy",},},},"Disabled":false,"id":"88ad3383-1a5e-41c1-9043-584c6b1b45cf","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5de49071-5451-4101-b3a7-8442b74a4cc8","path":"sprites/spr_boss_morte/spr_boss_morte.yy",},},},"Disabled":false,"id":"7d9d93bd-24b8-45e4-b166-8619d68e2f45","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b84a65b3-520d-4ba1-84be-4a6f49449120","path":"sprites/spr_boss_morte/spr_boss_morte.yy",},},},"Disabled":false,"id":"88ad3383-1a5e-41c1-9043-584c6b1b45cf","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
