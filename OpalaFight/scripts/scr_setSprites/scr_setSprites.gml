@@ -20,6 +20,11 @@ function setSpriteAndando(_obj)
 		case "obj_boss":
 			sprite = spr_boss_caminhando;
 		break;
+		
+		case "obj_inimigo05":
+			sprite = spr_inimigo5_andando;
+		break;
+		
 	}
 	
 	return sprite;
@@ -46,6 +51,10 @@ function setSpriteAtacando(_obj)
 		
 		case "obj_boss":
 			sprite = spr_boss_caminhando;
+		break;
+		
+		case "obj_inimigo05":
+			sprite = spr_inimigo5_soco;
 		break;
 	}
 	
@@ -75,6 +84,10 @@ function setSpriteDano(_obj)
 		case "obj_boss":
 			sprite = spr_boss_dano;
 		break;
+		
+		case "obj_inimigo05":
+			sprite = spr_inimigo5_dano;			
+		break;
 	}
 	
 	return sprite;
@@ -102,6 +115,10 @@ function setSpriteMorte(_obj)
 		
 		case "obj_boss":
 			sprite = spr_boss_morte;
+		break;
+		
+		case "obj_inimigo05":
+			sprite = spr_inimigo5_morte;			
 		break;
 	}
 	
