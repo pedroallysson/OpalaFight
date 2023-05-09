@@ -13,10 +13,10 @@ for(var i = 0; i < op_max; i++){
 	draw_set_valign(fa_center);
 	
 	if(index == i){
-		draw_set_color(c_yellow);
+		draw_set_color(c_orange);
 	}
 	else{
-		draw_set_color(c_white);
+		draw_set_color(c_yellow);
 	}
 		
 		

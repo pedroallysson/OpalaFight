@@ -39,10 +39,12 @@ function setSpriteAtacando(_obj)
 	{
 		case "obj_inimigo01":
 			sprite = spr_inimigo1_soco;
+
 		break;
 		
 		case "obj_inimigo02":
 			sprite = spr_inimigo2_soco;
+
 		break;
 		
 		case "obj_inimigo03":
@@ -50,7 +52,7 @@ function setSpriteAtacando(_obj)
 		break;
 		
 		case "obj_boss":
-			sprite = spr_boss_caminhando;
+			sprite = spr_boss_chute;
 		break;
 		
 		case "obj_inimigo05":
@@ -86,7 +88,7 @@ function setSpriteDano(_obj)
 		break;
 		
 		case "obj_inimigo05":
-			sprite = spr_inimigo5_dano;			
+			sprite = spr_inimigo5_dano;
 		break;
 	}
 	

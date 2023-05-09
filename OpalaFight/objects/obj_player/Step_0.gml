@@ -185,9 +185,10 @@ switch (estado)
 			sprite_index = spr_soco;
 			image_speed = 1;	
 			image_index = 0;
+			audio_play_sound(snd_punch, 1 ,false);
 		}
 		
-		if (image_index == 1 and !punch)
+		if (image_index == 1) and (!punch)
 		{
 			estado = player.parado;	
 		}
@@ -200,10 +201,12 @@ switch (estado)
 	
 		speed = 0;
 		sprite_index = spr_dano;
+	
 		
 		if (!alarm[0])
 		{
 			sangueplayer--;
+			audio_play_sound(snd_damage, 5 ,false);
 			alarm[0] = room_speed/3;
 		}
 	
@@ -214,11 +217,16 @@ switch (estado)
 	case player.morrendo:
 	
 		sprite_index = spr_morte;
+		audio_play_sound(snd_die, 2 ,false);
+		
+
 		
 		if (image_index == 2)
 		{
 			speed = 0;
 			image_speed = 0;
+			
+
 			
 			if (!alarm[1])
 			{
@@ -233,7 +241,7 @@ switch (estado)
 
 if (estado != player.pulando)
 {
-	y = clamp(y, 118, 160);
+	y = clamp(y, 128, 160);
 }
 
 if (estado != player.morrendo and estado != player.pulando)
