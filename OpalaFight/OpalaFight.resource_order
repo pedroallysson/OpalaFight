@@ -23,9 +23,9 @@
     {"name":"inimigo5","order":6,"path":"folders/Sprites/inimigos/inimigo5.yy",},
     {"name":"spr_boss","order":1,"path":"folders/Sprites/inimigos/spr_boss.yy",},
     {"name":"spr_cenario2","order":11,"path":"folders/Sprites/spr_cenario2.yy",},
+    {"name":"spr_cenario3","order":14,"path":"folders/Sprites/spr_cenario3.yy",},
     {"name":"spr_player","order":1,"path":"folders/Sprites/spr_player.yy",},
     {"name":"masks","order":8,"path":"folders/Sprites/spr_player/masks.yy",},
-    {"name":"spr_cenario3","order":14,"path":"folders/Sprites/spr_cenario3.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_boss_dano","order":2,"path":"sprites/spr_boss_dano/spr_boss_dano.yy",},
