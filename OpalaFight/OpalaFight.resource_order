@@ -28,6 +28,7 @@
     {"name":"spr_player","order":1,"path":"folders/Sprites/spr_player.yy",},
     {"name":"masks","order":8,"path":"folders/Sprites/spr_player/masks.yy",},
     {"name":"tutorial","order":18,"path":"folders/Sprites/tutorial.yy",},
+    {"name":"Thiago","order":7,"path":"folders/Sprites/inimigos/Thiago.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Fnt_dialogo","order":1,"path":"fonts/Fnt_dialogo/Fnt_dialogo.yy",},
