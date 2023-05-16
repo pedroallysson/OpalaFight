@@ -28,11 +28,13 @@
     {"name":"inst_7981BDD1","path":"rooms/Ambiente1/Ambiente1.yy",},
     {"name":"inst_528E6BF4","path":"rooms/Ambiente1/Ambiente1.yy",},
     {"name":"inst_2E1B3525","path":"rooms/Ambiente1/Ambiente1.yy",},
+    {"name":"inst_78426800","path":"rooms/Ambiente1/Ambiente1.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"areas","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_15EE2C1D","colour":1006632959,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_battle_area","path":"objects/obj_battle_area/obj_battle_area.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":422.0,"y":112.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_78426800","colour":1342177279,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},"properties":[],"rotation":0.0,"scaleX":0.21875,"scaleY":2.0,"x":0.0,"y":96.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"inimigos","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4568F9A2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_inimigo01","path":"objects/obj_inimigo01/obj_inimigo01.yy",},"properties":[],"rotation":0.0,"scaleX":0.7,"scaleY":0.7,"x":651.0,"y":133.0,},
