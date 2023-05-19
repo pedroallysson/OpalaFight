@@ -20,7 +20,7 @@ function scr_textos(){
 			ds_grid_add_text("Estou ao seu lado, Chris. Conte comigo para o que precisar.",spr_retrato_2, 1, "Matheus");
 			ds_grid_add_text("Obrigado, amigo. Com sua ajuda e meu treinamento, tenho certeza de que posso vencer meus professores e seus seguidores.",spr_retrato_1, 0, "Chris");
 			ds_grid_add_text("Conseguindo assim o meu diploma.",spr_retrato_1, 0, "Chris");
-			ds_grid_add_text("Siga em frente >>",spr_retrato_2, 1, "Matheus");
+			ds_grid_add_text("Siga em frente ->->",spr_retrato_2, 1, "Matheus");
 			
 		break;
 		
