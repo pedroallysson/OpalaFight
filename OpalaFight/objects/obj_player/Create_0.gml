@@ -10,8 +10,8 @@ xspeed = 0;
 yspeed = 0;
 depth = 0;
 
-sangueplayer = 10;
-sangueplayermax = 10;
+sangueplayer = 14;
+sangueplayermax = 14;
 
 
 
