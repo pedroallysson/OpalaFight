@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 127.79667,
+  "duration": 171.49388,
   "parent": {
     "name": "Sons",
     "path": "folders/Sons.yy",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "snd_gamemusic2.wav",
+  "soundFile": "snd_gamemusic2.mp3",
   "type": 0,
   "volume": 1.0,
 }
