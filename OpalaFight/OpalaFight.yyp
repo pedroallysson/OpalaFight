@@ -88,6 +88,7 @@
     {"id":{"name":"sprc_chao","path":"sprites/sprc_chao/sprc_chao.yy",},},
     {"id":{"name":"spr_player_walk","path":"sprites/spr_player_walk/spr_player_walk.yy",},},
     {"id":{"name":"spr_inimigo4_andando","path":"sprites/spr_inimigo4_andando/spr_inimigo4_andando.yy",},},
+    {"id":{"name":"obj_continuar","path":"objects/obj_continuar/obj_continuar.yy",},},
     {"id":{"name":"spr_mask_soco","path":"sprites/spr_mask_soco/spr_mask_soco.yy",},},
     {"id":{"name":"spr_dano","path":"sprites/spr_dano/spr_dano.yy",},},
     {"id":{"name":"obj_transicao2","path":"objects/obj_transicao2/obj_transicao2.yy",},},
@@ -139,6 +140,7 @@
     {"id":{"name":"Sprite32","path":"sprites/Sprite32/Sprite32.yy",},},
     {"id":{"name":"obj_inimigo_base","path":"objects/obj_inimigo_base/obj_inimigo_base.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"menu_continuar","path":"rooms/menu_continuar/menu_continuar.yy",},},
     {"id":{"name":"spr_inimigo3_soco","path":"sprites/spr_inimigo3_soco/spr_inimigo3_soco.yy",},},
     {"id":{"name":"obj_inimigo04","path":"objects/obj_inimigo04/obj_inimigo04.yy",},},
     {"id":{"name":"spr_cenario_3","path":"sprites/spr_cenario_3/spr_cenario_3.yy",},},
@@ -174,6 +176,7 @@
     {"roomId":{"name":"Ambiente2","path":"rooms/Ambiente2/Ambiente2.yy",},},
     {"roomId":{"name":"Ambiente3","path":"rooms/Ambiente3/Ambiente3.yy",},},
     {"roomId":{"name":"menu_options","path":"rooms/menu_options/menu_options.yy",},},
+    {"roomId":{"name":"menu_continuar","path":"rooms/menu_continuar/menu_continuar.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
