@@ -145,6 +145,7 @@
     {"id":{"name":"obj_inimigo04","path":"objects/obj_inimigo04/obj_inimigo04.yy",},},
     {"id":{"name":"spr_cenario_3","path":"sprites/spr_cenario_3/spr_cenario_3.yy",},},
     {"id":{"name":"spr_inimigo1_parado","path":"sprites/spr_inimigo1_parado/spr_inimigo1_parado.yy",},},
+    {"id":{"name":"spr_player_formado","path":"sprites/spr_player_formado/spr_player_formado.yy",},},
     {"id":{"name":"Obj_proximo_2","path":"objects/Obj_proximo_2/Obj_proximo_2.yy",},},
     {"id":{"name":"spr_background_menu","path":"sprites/spr_background_menu/spr_background_menu.yy",},},
     {"id":{"name":"Spr_Z","path":"sprites/Spr_Z/Spr_Z.yy",},},

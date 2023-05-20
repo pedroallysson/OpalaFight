@@ -110,6 +110,7 @@
     {"name":"spr_inimigo3_soco","order":4,"path":"sprites/spr_inimigo3_soco/spr_inimigo3_soco.yy",},
     {"name":"obj_inimigo04","order":18,"path":"objects/obj_inimigo04/obj_inimigo04.yy",},
     {"name":"spr_inimigo1_parado","order":3,"path":"sprites/spr_inimigo1_parado/spr_inimigo1_parado.yy",},
+    {"name":"spr_player_formado","order":9,"path":"sprites/spr_player_formado/spr_player_formado.yy",},
     {"name":"Obj_proximo_2","order":26,"path":"objects/Obj_proximo_2/Obj_proximo_2.yy",},
     {"name":"spr_background_menu","order":16,"path":"sprites/spr_background_menu/spr_background_menu.yy",},
     {"name":"menu_options","order":5,"path":"rooms/menu_options/menu_options.yy",},
