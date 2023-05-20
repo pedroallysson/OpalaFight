@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "snd_bipmenu.mp3",
   "type": 0,
-  "volume": 0.29,
+  "volume": 1.0,
 }
