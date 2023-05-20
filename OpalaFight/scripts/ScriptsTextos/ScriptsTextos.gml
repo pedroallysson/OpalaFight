@@ -10,7 +10,7 @@ function scr_textos(){
 			ds_grid_add_text("É realmente uma situação difícil. Mas você é um estudante talentoso, Chris. ",spr_retrato_2, 1, "Matheus");
 			ds_grid_add_text("Tenho certeza de que você encontrará uma maneira de superar isso.",spr_retrato_2, 1, "Matheus");
 			ds_grid_add_text("Eu decidi lutar contra meus professores e seus seguidores em uma série de batalhas épicas para ganhar o direito de me formar. ",spr_retrato_1, 0, "Chris");
-			ds_grid_add_text(" Mas caca cada professor tem habilidades e estilos de luta únicos, exigindo que eu me adapte e use estratégias diferentes para vencê-los.",spr_retrato_1, 0, "Chris");
+			ds_grid_add_text(" Mas cada professor tem habilidades e estilos de luta únicos, exigindo que eu me adapte e use estratégias diferentes para vencê-los.",spr_retrato_1, 0, "Chris");
 			ds_grid_add_text("Uau, isso parece muito desafiador.",spr_retrato_2, 1, "Matheus");
 			ds_grid_add_text("Você está se preparando para essas batalhas?",spr_retrato_2, 1, "Matheus");
 			ds_grid_add_text(" Sim, estou treinando duro para melhorar minhas habilidades de luta e adquirir novos equipamentos e itens. ",spr_retrato_1, 0, "Chris");
