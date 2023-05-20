@@ -21,6 +21,8 @@
     {"name":"inst_119545B0","path":"rooms/Ambiente2/Ambiente2.yy",},
     {"name":"inst_620BE48","path":"rooms/Ambiente2/Ambiente2.yy",},
     {"name":"inst_494AC28A","path":"rooms/Ambiente2/Ambiente2.yy",},
+    {"name":"inst_3D35458C","path":"rooms/Ambiente2/Ambiente2.yy",},
+    {"name":"inst_5A6D127E","path":"rooms/Ambiente2/Ambiente2.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -41,6 +43,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_394B8F9B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_frog","path":"objects/obj_frog/obj_frog.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":472.0,"y":150.5,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_620BE48","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_torcida","path":"objects/obj_torcida/obj_torcida.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":625.0,"y":120.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_494AC28A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_torcida","path":"objects/obj_torcida/obj_torcida.yy",},"properties":[],"rotation":0.0,"scaleX":0.6,"scaleY":0.6,"x":305.0,"y":126.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3D35458C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_torcida","path":"objects/obj_torcida/obj_torcida.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":785.0,"y":120.5,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5A6D127E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_frog","path":"objects/obj_frog/obj_frog.yy",},"properties":[],"rotation":0.0,"scaleX":0.4,"scaleY":0.4,"x":726.0,"y":153.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"spr_cenario_3","path":"sprites/spr_cenario_3/spr_cenario_3.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

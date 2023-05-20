@@ -100,6 +100,7 @@
     {"name":"obj_inimigo04","order":18,"path":"objects/obj_inimigo04/obj_inimigo04.yy",},
     {"name":"spr_inimigo1_parado","order":3,"path":"sprites/spr_inimigo1_parado/spr_inimigo1_parado.yy",},
     {"name":"Obj_proximo_2","order":26,"path":"objects/Obj_proximo_2/Obj_proximo_2.yy",},
+    {"name":"spr_background_menu","order":16,"path":"sprites/spr_background_menu/spr_background_menu.yy",},
     {"name":"obj_boss","order":8,"path":"objects/obj_boss/obj_boss.yy",},
     {"name":"spr_inimigo1_soco","order":1,"path":"sprites/spr_inimigo1_soco/spr_inimigo1_soco.yy",},
     {"name":"Obj_personagem_2","order":23,"path":"objects/Obj_personagem_2/Obj_personagem_2.yy",},
