@@ -53,6 +53,7 @@
     {"id":{"name":"spr_soco","path":"sprites/spr_soco/spr_soco.yy",},},
     {"id":{"name":"Ambiente3","path":"rooms/Ambiente3/Ambiente3.yy",},},
     {"id":{"name":"spr_boss_caminhando","path":"sprites/spr_boss_caminhando/spr_boss_caminhando.yy",},},
+    {"id":{"name":"spr_background_menu2","path":"sprites/spr_background_menu2/spr_background_menu2.yy",},},
     {"id":{"name":"snd_menu2","path":"sounds/snd_menu2/snd_menu2.yy",},},
     {"id":{"name":"spr_inimigo2_dano","path":"sprites/spr_inimigo2_dano/spr_inimigo2_dano.yy",},},
     {"id":{"name":"obj_inimigo03","path":"objects/obj_inimigo03/obj_inimigo03.yy",},},

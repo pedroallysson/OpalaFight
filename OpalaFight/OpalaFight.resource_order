@@ -33,6 +33,7 @@
     {"name":"spr_boss_dano","order":2,"path":"sprites/spr_boss_dano/spr_boss_dano.yy",},
     {"name":"spr_soco","order":2,"path":"sprites/spr_soco/spr_soco.yy",},
     {"name":"Ambiente3","order":1,"path":"rooms/Ambiente3/Ambiente3.yy",},
+    {"name":"spr_background_menu2","order":17,"path":"sprites/spr_background_menu2/spr_background_menu2.yy",},
     {"name":"snd_menu2","order":6,"path":"sounds/snd_menu2/snd_menu2.yy",},
     {"name":"spr_inimigo2_dano","order":2,"path":"sprites/spr_inimigo2_dano/spr_inimigo2_dano.yy",},
     {"name":"obj_inimigo03","order":14,"path":"objects/obj_inimigo03/obj_inimigo03.yy",},
