@@ -250,8 +250,8 @@ if (estado != player.morrendo and estado != player.pulando)
 	y += yspeed;	
 }
 
-if distance_to_object(Obj_par_npcs) <= 50 {
-	if keyboard_check_pressed(ord("F")){
+if distance_to_object(Obj_par_npcs) <= 7 {
+	if keyboard_check(vk_up){
 		var _npc = instance_nearest(x, y, Obj_par_npcs);
 		var _dialogo = instance_create_layer(x, y, "Dialogo", Obj_dialogo);
 		_dialogo.npc_nome = _npc.nome;
