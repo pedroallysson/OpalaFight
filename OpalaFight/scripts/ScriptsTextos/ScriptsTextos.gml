@@ -4,6 +4,7 @@ draw_set_font(Fnt_dialogo);
 function scr_textos(){
 	switch npc_nome{
 		case "Primeiro Texto":
+			
 			ds_grid_add_text("Fiquei sabendo de um esquema corrupto entre os professores.",spr_retrato_2, 1, "Matheus");
 			ds_grid_add_text(" Eu mal posso acreditar que meus professores têm um esquema corrupto para conceder diplomas apenas para aqueles que eles consideram dignos.",spr_retrato_1, 0, "Chris");
 			ds_grid_add_text(" Isso é totalmente injusto!",spr_retrato_1, 0, "Chris");

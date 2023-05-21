@@ -47,6 +47,7 @@
     {"name":"obj_frog","order":21,"path":"objects/obj_frog/obj_frog.yy",},
     {"name":"a1menu","order":2,"path":"rooms/a1menu/a1menu.yy",},
     {"name":"spr_boss_parado","order":1,"path":"sprites/spr_boss_parado/spr_boss_parado.yy",},
+    {"name":"Sprite69","order":3,"path":"sprites/Sprite69/Sprite69.yy",},
     {"name":"obj_battle_area","order":15,"path":"objects/obj_battle_area/obj_battle_area.yy",},
     {"name":"spr_inimigo4_morte","order":3,"path":"sprites/spr_inimigo4_morte/spr_inimigo4_morte.yy",},
     {"name":"spr_inimigo3_dano","order":1,"path":"sprites/spr_inimigo3_dano/spr_inimigo3_dano.yy",},
