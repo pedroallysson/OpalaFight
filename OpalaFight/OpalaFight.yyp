@@ -48,6 +48,7 @@
     "IDEVersion": "2023.2.1.75",
   },
   "resources": [
+    {"id":{"name":"spr_inimigo5_espera","path":"sprites/spr_inimigo5_espera/spr_inimigo5_espera.yy",},},
     {"id":{"name":"Fnt_dialogo","path":"fonts/Fnt_dialogo/Fnt_dialogo.yy",},},
     {"id":{"name":"spr_boss_dano","path":"sprites/spr_boss_dano/spr_boss_dano.yy",},},
     {"id":{"name":"spr_soco","path":"sprites/spr_soco/spr_soco.yy",},},

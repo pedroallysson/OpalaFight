@@ -29,6 +29,7 @@
     {"name":"tutorial","order":13,"path":"folders/Sprites/tutorial.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_inimigo5_espera","order":5,"path":"sprites/spr_inimigo5_espera/spr_inimigo5_espera.yy",},
     {"name":"Fnt_dialogo","order":1,"path":"fonts/Fnt_dialogo/Fnt_dialogo.yy",},
     {"name":"spr_boss_dano","order":2,"path":"sprites/spr_boss_dano/spr_boss_dano.yy",},
     {"name":"spr_soco","order":2,"path":"sprites/spr_soco/spr_soco.yy",},

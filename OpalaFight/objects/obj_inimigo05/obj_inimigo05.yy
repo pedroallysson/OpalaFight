@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_inimigo5_parado",
-    "path": "sprites/spr_inimigo5_parado/spr_inimigo5_parado.yy",
+    "name": "spr_inimigo5_espera",
+    "path": "sprites/spr_inimigo5_espera/spr_inimigo5_espera.yy",
   },
   "spriteMaskId": null,
   "visible": true,
