@@ -130,6 +130,7 @@
     {"id":{"name":"spr_inimigo5_soco","path":"sprites/spr_inimigo5_soco/spr_inimigo5_soco.yy",},},
     {"id":{"name":"spr_retrato_2","path":"sprites/spr_retrato_2/spr_retrato_2.yy",},},
     {"id":{"name":"snd_battle_boss","path":"sounds/snd_battle_boss/snd_battle_boss.yy",},},
+    {"id":{"name":"spr_background_intro_night","path":"sprites/spr_background_intro_night/spr_background_intro_night.yy",},},
     {"id":{"name":"proximo","path":"sprites/proximo/proximo.yy",},},
     {"id":{"name":"spr_inimigo6_dano","path":"sprites/spr_inimigo6_dano/spr_inimigo6_dano.yy",},},
     {"id":{"name":"scr_setSprites","path":"scripts/scr_setSprites/scr_setSprites.yy",},},

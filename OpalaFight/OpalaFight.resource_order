@@ -101,6 +101,7 @@
     {"name":"spr_inimigo5_soco","order":2,"path":"sprites/spr_inimigo5_soco/spr_inimigo5_soco.yy",},
     {"name":"spr_retrato_2","order":2,"path":"sprites/spr_retrato_2/spr_retrato_2.yy",},
     {"name":"snd_battle_boss","order":10,"path":"sounds/snd_battle_boss/snd_battle_boss.yy",},
+    {"name":"spr_background_intro_night","order":28,"path":"sprites/spr_background_intro_night/spr_background_intro_night.yy",},
     {"name":"proximo","order":10,"path":"sprites/proximo/proximo.yy",},
     {"name":"spr_inimigo6_dano","order":1,"path":"sprites/spr_inimigo6_dano/spr_inimigo6_dano.yy",},
     {"name":"spr_light","order":5,"path":"sprites/spr_light/spr_light.yy",},
