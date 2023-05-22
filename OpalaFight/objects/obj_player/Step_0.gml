@@ -241,7 +241,7 @@ switch (estado)
 
 if (estado != player.pulando)
 {
-	y = clamp(y, 128, 160);
+	y = clamp(y, 168, 205);
 }
 
 if (estado != player.morrendo and estado != player.pulando)
