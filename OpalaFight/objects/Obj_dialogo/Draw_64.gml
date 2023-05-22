@@ -15,14 +15,14 @@ if inicializar == true{
 	if texto_grid[# infos.Lado, pagina] == 0{
 	draw_rectangle_color(_xx + 100, _yy, _guil, _guia, _c, _c, _c, _c, false);
 	draw_text(_xx+ 90,_yy - 32, texto_grid[# infos.Nome, pagina]);
-	draw_text_ext(_xx + 540, _yy + 63, texto_grid[# infos.Texto, pagina], 32, _guil -254);
+	draw_text_ext(_xx + 660, _yy + 69, texto_grid[# infos.Texto, pagina], 32, _guil -254);
 	draw_sprite_ext(_sprite, 0 , -10, _guia - 180, 3, 3, 0, c_white, 1)
 	}
 	else{
 	draw_rectangle_color(_xx, _yy, _guil - 100 , _guia, _c, _c, _c, _c, false);
 	var _stgw = string_width(texto_grid[# infos.Nome, pagina]);
 	draw_text(_guil - 0 - _stgw, _yy - 32, texto_grid[# infos.Nome, pagina]);
-	draw_text_ext(_xx + 450, _yy + 63, texto_grid[# infos.Texto, pagina], 32, _guil -254);
+	draw_text_ext(_xx + 550, _yy + 69, texto_grid[# infos.Texto, pagina], 32, _guil -254);
 	draw_sprite_ext(_sprite, 0 ,_guil - 20, _guia - 180, -3, 3, 0, c_white, 1)
 	}
 }
