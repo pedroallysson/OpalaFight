@@ -144,6 +144,7 @@
     {"name":"spr_inimigo2_morte","order":3,"path":"sprites/spr_inimigo2_morte/spr_inimigo2_morte.yy",},
     {"name":"spr_inimigo6_morte","order":3,"path":"sprites/spr_inimigo6_morte/spr_inimigo6_morte.yy",},
     {"name":"obj_fim","order":20,"path":"objects/obj_fim/obj_fim.yy",},
+    {"name":"obj_transicao6","order":43,"path":"objects/obj_transicao6/obj_transicao6.yy",},
     {"name":"obj_music_dialogo","order":29,"path":"objects/obj_music_dialogo/obj_music_dialogo.yy",},
     {"name":"spr_sky","order":27,"path":"sprites/spr_sky/spr_sky.yy",},
     {"name":"spr_confetes","order":30,"path":"sprites/spr_confetes/spr_confetes.yy",},

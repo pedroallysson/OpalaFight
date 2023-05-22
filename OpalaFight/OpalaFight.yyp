@@ -180,6 +180,7 @@
     {"id":{"name":"spr_inimigo2_morte","path":"sprites/spr_inimigo2_morte/spr_inimigo2_morte.yy",},},
     {"id":{"name":"spr_inimigo6_morte","path":"sprites/spr_inimigo6_morte/spr_inimigo6_morte.yy",},},
     {"id":{"name":"obj_fim","path":"objects/obj_fim/obj_fim.yy",},},
+    {"id":{"name":"obj_transicao6","path":"objects/obj_transicao6/obj_transicao6.yy",},},
     {"id":{"name":"obj_music_dialogo","path":"objects/obj_music_dialogo/obj_music_dialogo.yy",},},
     {"id":{"name":"ft_menu","path":"fonts/ft_menu/ft_menu.yy",},},
     {"id":{"name":"spr_sky","path":"sprites/spr_sky/spr_sky.yy",},},

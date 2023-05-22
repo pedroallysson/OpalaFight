@@ -1,18 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_inimigo01",
-  "eventList": [],
+  "name": "obj_transicao6",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":73,"eventType":9,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Objetos",
     "path": "folders/Objetos.yy",
   },
-  "parentObjectId": {
-    "name": "obj_inimigo_base",
-    "path": "objects/obj_inimigo_base/obj_inimigo_base.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -24,19 +23,11 @@
   "physicsRestitution": 0.1,
   "physicsSensor": false,
   "physicsShape": 1,
-  "physicsShapePoints": [
-    {"x":0.0,"y":0.0,},
-    {"x":76.0,"y":0.0,},
-    {"x":76.0,"y":94.0,},
-    {"x":0.0,"y":94.0,},
-  ],
+  "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_inimigo1_espera",
-    "path": "sprites/spr_inimigo1_espera/spr_inimigo1_espera.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
