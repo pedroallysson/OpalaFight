@@ -37,6 +37,7 @@
     {"name":"spr_opcoes","order":18,"path":"sprites/spr_opcoes/spr_opcoes.yy",},
     {"name":"spr_background_menu2","order":17,"path":"sprites/spr_background_menu2/spr_background_menu2.yy",},
     {"name":"snd_menu2","order":6,"path":"sounds/snd_menu2/snd_menu2.yy",},
+    {"name":"spr_player_graduado","order":10,"path":"sprites/spr_player_graduado/spr_player_graduado.yy",},
     {"name":"spr_fundo","order":23,"path":"sprites/spr_fundo/spr_fundo.yy",},
     {"name":"spr_inimigo2_dano","order":2,"path":"sprites/spr_inimigo2_dano/spr_inimigo2_dano.yy",},
     {"name":"obj_inimigo03","order":14,"path":"objects/obj_inimigo03/obj_inimigo03.yy",},
