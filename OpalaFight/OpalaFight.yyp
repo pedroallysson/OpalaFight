@@ -183,6 +183,7 @@
     {"id":{"name":"obj_music_dialogo","path":"objects/obj_music_dialogo/obj_music_dialogo.yy",},},
     {"id":{"name":"ft_menu","path":"fonts/ft_menu/ft_menu.yy",},},
     {"id":{"name":"spr_sky","path":"sprites/spr_sky/spr_sky.yy",},},
+    {"id":{"name":"spr_confetes","path":"sprites/spr_confetes/spr_confetes.yy",},},
     {"id":{"name":"ScriptsTextos","path":"scripts/ScriptsTextos/ScriptsTextos.yy",},},
     {"id":{"name":"spr_battle_area","path":"sprites/spr_battle_area/spr_battle_area.yy",},},
     {"id":{"name":"obj_brilho","path":"objects/obj_brilho/obj_brilho.yy",},},

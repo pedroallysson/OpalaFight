@@ -146,6 +146,7 @@
     {"name":"obj_fim","order":20,"path":"objects/obj_fim/obj_fim.yy",},
     {"name":"obj_music_dialogo","order":29,"path":"objects/obj_music_dialogo/obj_music_dialogo.yy",},
     {"name":"spr_sky","order":27,"path":"sprites/spr_sky/spr_sky.yy",},
+    {"name":"spr_confetes","order":30,"path":"sprites/spr_confetes/spr_confetes.yy",},
     {"name":"ScriptsTextos","order":1,"path":"scripts/ScriptsTextos/ScriptsTextos.yy",},
     {"name":"spr_battle_area","order":8,"path":"sprites/spr_battle_area/spr_battle_area.yy",},
     {"name":"obj_brilho","order":39,"path":"objects/obj_brilho/obj_brilho.yy",},
