@@ -3,5 +3,5 @@
 
 image_alpha = 0.5;
 audio_stop_all();
-room_goto(a1menu);
+room_goto(Ambiente4);
 
