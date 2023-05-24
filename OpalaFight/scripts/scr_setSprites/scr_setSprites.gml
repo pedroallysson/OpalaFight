@@ -61,7 +61,7 @@ function setSpriteAtacando(_obj)
 		break;
 		
 		case "obj_boss":
-			sprite = spr_boss_chute;
+			sprite = spr_boss_soco;
 		break;
 		
 		case "obj_inimigo05":
