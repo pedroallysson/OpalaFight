@@ -30,7 +30,7 @@ function scr_textos(){
 			ds_grid_add_text("É uma oportunidade que não podemos deixar escapar, Chris. Precisamos detê-lo e expor toda a corrupção que está acontecendo na universidade.",spr_retrato_2, 1, "Matheus");
 			ds_grid_add_text("Estou determinado a acabar com esse esquema corrupto e garantir que todos os estudantes tenham a oportunidade justa de obter seus diplomas.",spr_retrato_1, 0, "Chris");
 			ds_grid_add_text("Como podemos chegar até o reitor? Você tem alguma ideia de onde ele possa estar se escondendo?",spr_retrato_2, 1, "Matheus");
-			ds_grid_add_text("Pelas informações que recebi, suspeito que ele tenha procurado abrigo em uma cidade vizinha. ",spr_retrato_1, 0, "Chris");
+			ds_grid_add_text("Pelas informações que recebi, suspeito que ele tenha procurado abrigo em Piripiri. ",spr_retrato_1, 0, "Chris");
 			ds_grid_add_text("No entanto, há relatos de que ele pretende sair de Pedro II pela estrada principal.",spr_retrato_1, 0, "Chris");
 			ds_grid_add_text("Então, temos que interceptá-lo na saída da cidade! Vamos montar um plano para cercá-lo e impedi-lo de escapar.",spr_retrato_2, 1, "Matheus");
 			ds_grid_add_text("Exatamente. Precisamos mobilizar todos os estudantes que estão dispostos a lutar contra a corrupção. ",spr_retrato_1, 0, "Chris");
