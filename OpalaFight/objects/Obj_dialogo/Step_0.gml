@@ -7,8 +7,10 @@ if inicializar == false{
 if keyboard_check_pressed(ord("F")){
 	if pagina < ds_grid_height(texto_grid) - 1{
 		pagina++;
-	}else{
+	}
+	else{
 		
 		instance_destroy();
 	}
 }
+

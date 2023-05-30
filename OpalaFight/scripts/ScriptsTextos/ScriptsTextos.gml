@@ -57,6 +57,9 @@ function scr_textos(){
 			ds_grid_add_text("Parabéns novamente pela sua conquista e vamos voltar ao IFPI para receber o diploma que você merece.",spr_retrato_2, 1, "Matheus");
 			ds_grid_add_text("Siga em frente ->->",spr_retrato_2, 1, "Matheus");
 		break;
+		case "quarto Texto":
+		ds_grid_add_text("pause",spr_retrato_2, 1, "Matheus");
+		break;
 		
 	}
 }function ds_grid_add_row(){

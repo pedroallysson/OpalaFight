@@ -1,4 +1,10 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-audio_stop_all();
-game_restart();
+pause = false;
+
+pauseSurf = -1;
+pauseSurfBuffer = -1;
+
+resW = 1400;
+resH = 1111;
+

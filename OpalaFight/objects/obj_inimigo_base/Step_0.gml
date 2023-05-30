@@ -1,6 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
+
 #region Notando o player
 
 	if (distance_to_object(obj_player) < visao and !seguiu)

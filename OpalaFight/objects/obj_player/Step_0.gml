@@ -1,4 +1,7 @@
 
+
+
+
 #region Entradas do teclado
 right = keyboard_check(vk_right);
 left = keyboard_check(vk_left);
@@ -257,6 +260,7 @@ if distance_to_object(Obj_par_npcs) <= 7 {
 		_dialogo.npc_nome = _npc.nome;
 	}
 }
+
 
 /*
 // acoes
