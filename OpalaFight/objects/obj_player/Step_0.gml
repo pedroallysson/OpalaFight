@@ -40,6 +40,11 @@ down_released = keyboard_check_released(vk_down);
 	if (sangueplayer <=0)
 	{
 		estado = player.morrendo;
+		// Reinicia a posição do personagem
+
+
+// Exibe uma mensagem indicando que o personagem morreu
+
 	}
 
 #endregion
