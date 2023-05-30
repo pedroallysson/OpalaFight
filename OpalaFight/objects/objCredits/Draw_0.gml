@@ -14,7 +14,7 @@ draw_set_valign(fa_top);
 draw_set_color(c_red);
 
 draw_set_font(credt); // Define o tamanho da fonte
-draw_text(room_width / 2, textPosition,  "\n\n"
+draw_text(room_width / 2, textPosition, "Créditos" +  "\n\n"
             + "Programação:\n"
             + " - Pedro\n"
             + " - Ribamar\n\n" 
@@ -33,7 +33,12 @@ draw_text(room_width / 2, textPosition,  "\n\n"
             + " - Nonato \n"
 			+ " - Laiton \n\n"
 			+ "Participações Especiais:\n"
-            + " - sapo fred \n\n\n\n\n\n\n"
+            + " - Joia de sapo \n"
+			+ " - Matheus \n\n"
+			+ "Área de gravações:\n"
+            + " - IFPI-Campos Pedro II \n"
+			+ " - Pedro II \n"
+			+  "\n\n\n\n\n\n\n"
 			+  "Obrigador por jogar!"
 
  );
