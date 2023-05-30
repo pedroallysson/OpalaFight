@@ -21,7 +21,7 @@ if (keyboard_check_pressed(ord("P")))
     if (!pause)
     {
 		// Define o título personalizado do jogo
-window_set_caption("Opalafight")
+window_set_caption("°+° Opalafight °-°")
 
 // Exibe a mensagem com o novo título
 show_message("Jogo em pausa!");
