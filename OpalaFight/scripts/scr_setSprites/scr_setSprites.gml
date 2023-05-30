@@ -30,6 +30,14 @@ function setSpriteAndando(_obj)
 			sprite = spr_inimigo5_andando;
 		break;
 		
+		case "obj_inimigo06":
+			sprite = spr_inimigo6_andando;
+		break;
+		
+		case "obj_inimigo07":
+			sprite = spr_inimigo7_andando;
+		break;
+		
 	}
 	
 	return sprite;
@@ -67,6 +75,14 @@ function setSpriteAtacando(_obj)
 		case "obj_inimigo05":
 			sprite = spr_inimigo5_soco;
 		break;
+		
+		case "obj_inimigo06":
+			sprite = spr_inimigo6_soco;
+		break;
+		
+		case "obj_inimigo07":
+			sprite = spr_inimigo7_soco;
+		break;
 	}
 	
 	return sprite;
@@ -103,6 +119,13 @@ function setSpriteDano(_obj)
 		case "obj_inimigo05":
 			sprite = spr_inimigo5_dano;
 		break;
+		case "obj_inimigo06":
+			sprite = spr_inimigo6_dano;
+		break;
+		
+		case "obj_inimigo07":
+			sprite = spr_inimigo7_dano;
+		break;
 	}
 	
 	return sprite;
@@ -138,6 +161,14 @@ function setSpriteMorte(_obj)
 		
 		case "obj_inimigo05":
 			sprite = spr_inimigo5_morte;			
+		break;
+		
+		case "obj_inimigo06":
+			sprite = spr_inimigo6_morte;			
+		break;
+		
+		case "obj_inimigo07":
+			sprite = spr_inimigo7_morte;			
 		break;
 	}
 	

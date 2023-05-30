@@ -29,6 +29,7 @@
     {"name":"inst_467A636E","path":"rooms/Ambiente2/Ambiente2.yy",},
     {"name":"inst_317B33B1","path":"rooms/Ambiente2/Ambiente2.yy",},
     {"name":"inst_3689A13A","path":"rooms/Ambiente2/Ambiente2.yy",},
+    {"name":"inst_7DCDC8B5","path":"rooms/Ambiente2/Ambiente2.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -56,6 +57,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_799841BC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_torcida_tripla","path":"objects/obj_torcida_tripla/obj_torcida_tripla.yy",},"properties":[],"rotation":0.0,"scaleX":0.4,"scaleY":0.4,"x":133.0,"y":116.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3030C339","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_torcida_tripla","path":"objects/obj_torcida_tripla/obj_torcida_tripla.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":532.0,"y":104.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4AE7B896","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_torcida3","path":"objects/obj_torcida3/obj_torcida3.yy",},"properties":[],"rotation":0.0,"scaleX":0.74,"scaleY":0.74,"x":701.0,"y":116.010544,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7DCDC8B5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_torcida3","path":"objects/obj_torcida3/obj_torcida3.yy",},"properties":[],"rotation":0.0,"scaleX":0.4,"scaleY":0.4,"x":311.0,"y":130.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Dialogo","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_317B33B1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_personagem_3","path":"objects/Obj_personagem_3/Obj_personagem_3.yy",},"properties":[],"rotation":0.0,"scaleX":0.8,"scaleY":0.8,"x":1018.0,"y":128.0,},
