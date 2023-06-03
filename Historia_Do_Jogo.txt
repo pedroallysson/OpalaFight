@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ----------------------------------------- Enredo -----------------------------
 
 O jogo se passa em uma prestigiosa universidade. 
@@ -28,3 +29,35 @@ A história termina com Chris se preparando para seguir sua carreira profissiona
 
 
 
+=======
+----------------------------------------- Enredo -----------------------------
+
+O jogo se passa em uma prestigiosa universidade. 
+
+O personagem principal é Chris, um praticante de luta e estudante que está prestes a se formar em Análise e Desenvolvimento de Sistemas. 
+
+No entanto, ele descobre que seus professores têm um esquema corrupto para conceder diplomas apenas para aqueles que eles consideram dignos.
+
+Chris é um estudante talentoso, mas não é um dos favoritos dos professores e, por isso, eles se recusam a conceder-lhe o diploma.  
+
+Determinado a provar seu valor, ele decide lutar contra seus professores e seus seguidores em uma série de batalhas épicas para ganhar o direito de se formar. 
+
+A primeira luta é contra o professor de Engenharia de Software, que é um mestre em Jiu Jitsu. Chris consegue vencer a luta usando suas habilidades de kickboxing, mas percebe que terá que enfrentar desafios cada vez maiores à medida que avança.
+
+À medida que o jogador progride, ele desbloqueia novas lutas e novos cenários.
+
+A medida que os golpes vão acertando o oponente, o jogador ganha pontos de experiência, que podem ser usados para desbloquear golpes especiais. Além disso, o jogador pode coletar poções de cura durante a jogatina.
+
+As lutas ficam mais intensas a cada rodada, com Chris enfrentando professores de artes marciais diferentes, incluindo karatê, taekwondo, jiu-jitsu e boxe. Cada professor tem seu próprio estilo de luta, o que lhe obriga a se adaptar rapidamente.
+
+No meio das lutas, também precisa lidar com a pressão de seus colegas de classe, que estão torcendo por ele, bem como com os comentários dos professores que não acreditam que ele possa vencer. 
+
+No final, Chris chega à luta final contra o reitor da universidade, que é um ex-lutador de artes marciais mistas. A luta é extremamente difícil e equilibrada, mas ele consegue vencer o reitor com uma série de golpes bem calculados.
+
+Com a vitória, ele se forma e recebe seu diploma. Ele ganha o respeito de todos os professores e seus colegas de classe, e se torna uma inspiração para outros estudantes da universidade.
+
+A história termina com Chris se preparando para seguir sua carreira profissional, mas também planejando continuar suas lutas e aprimorar suas habilidades. Ele percebe que o equilíbrio entre o corpo e a mente é a chave para o sucesso em todas as áreas da vida.
+
+
+
+>>>>>>> 7a78769764baeccb848a87bb8fd8de5146b24066
