@@ -18,11 +18,11 @@ down_released = keyboard_check_released(vk_down);
 
 #region Profundidade no cenário
 	
-	/*var inimigo = instance_place(x, y, obj_inimigo_base);
+	var enemy = instance_place(x, y, obj_inimigo_base);
 	
-	if (inimigo != noone)
+	if (enemy != noone)
 	{
-		if (y < inimigo.y)
+		if (y < enemy.y)
 		{
 			depth = 2;
 		}
@@ -30,7 +30,7 @@ down_released = keyboard_check_released(vk_down);
 		{
 			depth = 0;
 		}
-	}*/
+	}
 
 
 #endregion
